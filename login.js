@@ -15,7 +15,7 @@ window.onload = function() {
         var name = document.getElementById("username").value;
         if(users.includes(name))
         {
-            window.location.href = "https://epicgamez.w3spaces.com/gamez.html";
+            window.location.href = "https://epicgamez.w3spaces.com/index.html";
         }
         else
         {

@@ -15,7 +15,7 @@ window.onload = function() {
         var name = document.getElementById("username").value;
         if(users.includes(name))
         {
-            window.location.href = "https://halfsmore.github.io/TestRepo/";
+            window.location.href = "https://halfsmore.github.io/TestRepo/level1";
         }
         else
         {

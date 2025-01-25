@@ -2,7 +2,7 @@ window.onload = function () {
     var playerx = 1;
     var playery = 1;
     var moves = 5;
-    const flagpart = "_d4yzz}";
+    const flagpart = "d4yzz}";
     const level1 = [
         0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
         0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

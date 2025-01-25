@@ -60,7 +60,7 @@ window.onload = function () {
 
             case 2:
                 document.getElementById("win").style.display = '';
-                document.getElementById("flag").innerHTML = "BCPSctf{m4z3ss_";
+                document.getElementById("flag").innerHTML = "BCPSctf{m4z3ss";
                 return true;
         }
 

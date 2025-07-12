@@ -1,7 +1,6 @@
 window.onload = function () {
     var playerx = 1;
     var playery = 1;
-    const flagpart = "flag{m4z3ss_";
     const level1 = [
         0, 0, 0, 0, 1, 1, 0, 0, 0, 0,
         0, 0, 0, 0, 1, 1, 0, 0, 0, 0,
@@ -60,7 +59,7 @@ window.onload = function () {
 
             case 2:
                 document.getElementById("win").style.display = '';
-                document.getElementById("flag").innerHTML = "BCPSctf{m4z3ss";
+                document.getElementById("flag").innerHTML = "flag{m4z3ss";
                 return true;
         }
 
